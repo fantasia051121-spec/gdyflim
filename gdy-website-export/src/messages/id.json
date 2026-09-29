@@ -1,0 +1,262 @@
+{
+  "meta": {
+    "title": "GDY — Produsen Film Pelindung Profesional | Solusi Perlindungan Permukaan PET",
+    "description": "Shenzhen Guangdayuan Film Co., Ltd. (GDY) — 20+ tahun spesialis film pelindung PET: silicone, akrilik, PU, anti-statis, tahan suhu tinggi, dan high-clarity. Melayani elektronik, otomotif, energi baru, material bangunan, peralatan rumah tangga, dan logam di 40+ negara."
+  },
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "services": "Produk",
+    "cases": "Aplikasi",
+    "contact": "Kontak",
+    "news": "Berita",
+    "language": "Bahasa",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "Sejak 2004 · Pabrik 16.000 m² · Tersertifikasi ISO 9001 / 14001",
+    "title": "Solusi Perlindungan Permukaan yang Stabil dan Andal",
+    "titleHighlight": "untuk Setiap Industri",
+    "subtitle": "GDY adalah produsen profesional film pelindung PET — silicone, akrilik, PU, anti-statis, tahan suhu tinggi, dan high-clarity — dengan kustomisasi penuh dan pengiriman cepat ke Asia Tenggara dan 40+ negara di seluruh dunia.",
+    "ctaPrimary": "Minta Penawaran",
+    "ctaSecondary": "Lihat Produk",
+    "stats": {
+      "years": "Tahun pengalaman",
+      "factory": "m² basis produksi",
+      "industries": "Industri yang dilayani",
+      "countries": "Negara ekspor"
+    }
+  },
+  "services": {
+    "title": "Enam Lini Produk Utama",
+    "subtitle": "Film pelindung permukaan PET lengkap — setiap parameter dapat dikustomisasi sesuai aplikasi Anda.",
+    "items": [
+      {
+        "title": "Film Pelindung PET Silicone",
+        "desc": "Bebas residu perekat, adhesi rendah, kebersihan tinggi; stabil dari −40°C hingga 150°C. Untuk layar ponsel/tablet, lensa optik, dan komponen elektronik presisi."
+      },
+      {
+        "title": "Film Pelindung PET Akrilik",
+        "desc": "Adhesi kuat 5–1.500 g/in dengan transmisi cahaya ≥91%. Untuk pelat logam, komponen plastik, dan permukaan kaca selama proses dan pengiriman."
+      },
+      {
+        "title": "Film Pelindung PET Lem PU",
+        "desc": "Laminasi ultra-bersih diproduksi di cleanroom Class-1000 tanpa residu. Untuk film optik, panel display, dan rakitan semikonduktor presisi."
+      },
+      {
+        "title": "Film Pelindung PET Anti-Statis",
+        "desc": "Resistensi permukaan 10⁸–10¹¹ Ω dengan perlindungan ESD lebih dari 12 bulan. Untuk komponen elektronik, PCB/FPC, dan kemasan semikonduktor."
+      },
+      {
+        "title": "Film Pelindung PET Tahan Suhu Tinggi",
+        "desc": "Tahan 200°C+ tanpa lepas selama penyemprotan atau penyepuhan. Untuk masking cat otomotif, proteksi penyepuhan, dan proses bersuhu tinggi."
+      },
+      {
+        "title": "Film Pelindung PET High-Clarity",
+        "desc": "Transmisi cahaya ≥95% dengan kerataan kelas optik. Untuk lensa optik, layar sentuh, dan permukaan produk high-gloss."
+      }
+    ]
+  },
+  "advantages": {
+    "title": "Mengapa Memilih GDY",
+    "subtitle": "20 tahun fokus pada film pelindung PET — dari R&D hingga lini produksi Anda.",
+    "items": [
+      {
+        "title": "Lab R&D Bersama HIT",
+        "desc": "Formulasi dikustomisasi sesuai aplikasi Anda — adhesi, ketahanan suhu, anti-statis, dan lainnya — bersama laboratorium Harbin Institute of Technology."
+      },
+      {
+        "title": "Bahan Baku Impor",
+        "desc": "Film dasar dari Toray dan Toyobo (Jepang) menjamin tidak menguning dan tidak rapuh seiring waktu."
+      },
+      {
+        "title": "Kustomisasi Penuh",
+        "desc": "Ketebalan 25–300 μm, lebar hingga 1.600 mm, adhesi 1–1.500 g/in; opsi anti-statis, tahan UV, tahan suhu tinggi, dan tahan api."
+      },
+      {
+        "title": "Sampel Gratis, OEM / ODM",
+        "desc": "Sampel uji gratis; produksi massal setelah spesifikasi dikonfirmasi. Mendukung private-label dan pengembangan spesifikasi khusus."
+      },
+      {
+        "title": "Pengiriman Cepat Asia Tenggara",
+        "desc": "Koridor logistik reguler ke Vietnam, Thailand, Indonesia, Malaysia, dan Filipina — produk standar dikirim dalam 7 hari."
+      },
+      {
+        "title": "Pengalaman Ekspor Global",
+        "desc": "Terekspor ke 40+ negara dengan dukungan syarat perdagangan DDP dan DDU."
+      }
+    ],
+    "certsTitle": "Sertifikasi & Kepatuhan",
+    "certs": [
+      "ISO 9001",
+      "ISO 14001",
+      "Diujji SGS",
+      "RoHS",
+      "REACH",
+      "Perusahaan Teknologi Tinggi Nasional"
+    ]
+  },
+  "cases": {
+    "title": "Industri yang Kami Layani",
+    "subtitle": "Solusi perlindungan permukaan untuk enam sektor utama.",
+    "viewAll": "Lihat semua produk",
+    "items": [
+      {
+        "title": "Elektronik & Elektronik Konsumen",
+        "desc": "Perlindungan layar dan komponen untuk ponsel, tablet, laptop, dan display.",
+        "sector": "Elektronik"
+      },
+      {
+        "title": "Peralatan Rumah Tangga",
+        "desc": "Perlindungan panel dan bodi untuk lemari es, AC, mesin cuci, dan peralatan dapur.",
+        "sector": "Peralatan"
+      },
+      {
+        "title": "Material Bangunan",
+        "desc": "Perlindungan permukaan profil aluminium, baja tahan karat, kaca, dan batu.",
+        "sector": "Konstruksi"
+      },
+      {
+        "title": "Otomotif",
+        "desc": "Film trim interior/eksterior, masking pengecatan, dan pelindung dashboard.",
+        "sector": "Otomotif"
+      },
+      {
+        "title": "Energi Baru",
+        "desc": "Perlindungan panel surya, modul baterai litium, dan komponen kendaraan listrik.",
+        "sector": "Energi Baru"
+      },
+      {
+        "title": "Logam & Furnitur",
+        "desc": "Pelat logam, profil plastik, signage, dan perlindungan permukaan furnitur.",
+        "sector": "Logam"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Siap melindungi produk Anda?",
+    "subtitle": "Kirimkan kebutuhan Anda — sampel gratis dan solusi yang tepat dalam 24 jam.",
+    "button": "Hubungi tim kami"
+  },
+  "about": {
+    "title": "Tentang GDY",
+    "subtitle": "Produsen profesional di industri film pelindung",
+    "lead": "Shenzhen Guangdayuan Film Co., Ltd. — 20 tahun fokus pada R&D dan manufaktur film pelindung PET, menghadirkan solusi perlindungan permukaan yang stabil dan andal bagi pelanggan di seluruh dunia.",
+    "missionTitle": "Misi Kami",
+    "missionText": "Memberikan solusi perlindungan permukaan yang stabil dan andal — film yang tepat, adhesi yang tepat, tepat waktu.",
+    "visionTitle": "Visi Kami",
+    "visionText": "Menjadi mitra film pelindung paling tepercaya bagi produsen elektronik, otomotif, dan energi baru di Asia dan seluruh dunia.",
+    "paragraphs": [
+      "Didirikan tahun 2004, GDY mengoperasikan basis produksi 16.000 m² dengan cleanroom Class-100.000 dan Class-1.000 serta tiga lini coating otomatis penuh — kapasitas tahunan 120 juta m².",
+      "Film dasar dari Toray dan Toyobo (Jepang), laboratorium R&D bersama Harbin Institute of Technology, serta sistem tersertifikasi ISO 9001 / ISO 14001 menjaga kualitas tetap stabil dari batch ke batch."
+    ],
+    "statsTitle": "Kekuatan Pabrik",
+    "stats": [
+      {
+        "value": "2004",
+        "label": "Didirikan"
+      },
+      {
+        "value": "16.000 m²",
+        "label": "Basis produksi"
+      },
+      {
+        "value": "3",
+        "label": "Lini coating otomatis"
+      },
+      {
+        "value": "120 jt m²",
+        "label": "Kapasitas tahunan"
+      },
+      {
+        "value": "10 jt m²",
+        "label": "Kapasitas bulanan"
+      },
+      {
+        "value": "100K / 1K",
+        "label": "Cleanroom"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "subtitle": "Ceritakan proyek Anda — kami akan segera merespons.",
+    "form": {
+      "name": "Nama",
+      "namePlaceholder": "Nama Anda",
+      "email": "Email",
+      "emailPlaceholder": "you@company.com",
+      "message": "Pesan",
+      "messagePlaceholder": "Jelaskan kebutuhan Anda…",
+      "submit": "Kirim Pertanyaan",
+      "success": "Terima kasih! Pertanyaan Anda telah diterima. Kami akan menghubungi Anda dalam 24 jam."
+    },
+    "info": {
+      "title": "Kontak",
+      "address": "Kantor Pusat",
+      "phone": "Telepon / WhatsApp",
+      "email": "Email"
+    },
+    "channelsTitle": "Kanal Lainnya"
+  },
+  "footer": {
+    "tagline": "Produsen film pelindung PET profesional — perlindungan permukaan yang stabil dan andal untuk industri global.",
+    "product": "Produk",
+    "company": "Perusahaan",
+    "follow": "Ikuti Kami",
+    "rights": "Hak cipta dilindungi."
+  },
+  "chat": {
+    "title": "Asisten Bisnis AI",
+    "subtitle": "Tanya tentang perusahaan, produk, layanan, atau cara memulai proyek.",
+    "placeholder": "Ketik pertanyaan Anda…",
+    "send": "Kirim",
+    "thinking": "Sedang berpikir…",
+    "quick": "Pertanyaan populer",
+    "quickItems": [
+      "Perusahaan Anda terutama bergerak di bidang apa?",
+      "Layanan apa saja yang Anda tawarkan?",
+      "Bagaimana cara berkonsultasi soal proyek?",
+      "Minta penawaran harga"
+    ],
+    "wizard": "Pembuat Penawaran Cepat",
+    "wizardProduct": "Jenis produk",
+    "wizardThickness": "Ketebalan (μm)",
+    "wizardWidth": "Lebar (mm)",
+    "wizardAdhesion": "Kekuatan rekat (g/in)",
+    "wizardQty": "Jumlah (gulungan / m²)",
+    "wizardGenerate": "Buat permintaan",
+    "human": "Hubungi manusia",
+    "humanDesc": "Tidak menemukan jawaban? Tim sales kami hanya satu ketukan.",
+    "whatsapp": "WhatsApp",
+    "wechat": "WeChat",
+    "wechatScan": "Pindai untuk tambah WeChat",
+    "wechatIdLabel": "ID WeChat",
+    "offline": "Mode demo (tanpa kunci AI) — hanya jawaban dasar. Ketuk WeChat / WhatsApp untuk bicara dengan orang asli."
+  },
+  "news": {
+    "title": "Berita & Wawasan",
+    "subtitle": "Pembaruan perusahaan dan wawasan industri film pelindung.",
+    "featured": "Unggulan",
+    "latest": "Terbaru",
+    "readMore": "Baca selengkapnya",
+    "back": "Kembali ke berita",
+    "publishedOn": "Diterbitkan pada",
+    "categoryCompany": "Berita Perusahaan",
+    "categoryIndustry": "Wawasan Industri",
+    "relatedTitle": "Berita lainnya",
+    "shareTitle": "Ikuti kami",
+    "shareDesc": "Ikuti GDY di media sosial untuk pembaruan terbaru.",
+    "viewAll": "Lihat semua",
+    "homeTitle": "Berita & Wawasan",
+    "homeSubtitle": "Pembaruan terbaru dari GDY dan tren industri film pelindung.",
+    "source": "Sumber"
+  },
+  "trust": {
+    "line": "Dipercaya oleh manufaktur di 40+ negara · Kualitas bersertifikat ISO · Kirim 7 hari ke Asia Tenggara"
+  },
+  "faq": {
+    "title": "Pertanyaan Umum",
+    "subtitle": "Jawaban atas pertanyaan umum tentang film PET, kustomisasi, sampel, dan pengiriman."
+  }
+}

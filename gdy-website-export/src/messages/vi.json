@@ -1,0 +1,262 @@
+{
+  "meta": {
+    "title": "GDY — Nhà sản xuất màng bảo vệ chuyên nghiệp | Giải pháp bảo vệ bề mặt PET",
+    "description": "Shenzhen Guangdayuan Film Co., Ltd. (GDY) — hơn 20 năm chuyên sản xuất màng bảo vệ PET: silicone, acrylic, PU, chống tĩnh điện, chịu nhiệt và độ trong suốt cao. Phục vụ điện tử, ô tô, năng lượng mới, vật liệu xây dựng, gia dụng và kim khí tại hơn 40 quốc gia."
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Về chúng tôi",
+    "services": "Sản phẩm",
+    "cases": "Ứng dụng",
+    "contact": "Liên hệ",
+    "news": "Tin tức",
+    "language": "Ngôn ngữ",
+    "faq": "Câu hỏi"
+  },
+  "hero": {
+    "badge": "Từ 2004 · Nhà máy 16.000 m² · Chứng nhận ISO 9001 / 14001",
+    "title": "Giải pháp bảo vệ bề mặt ổn định, đáng tin cậy",
+    "titleHighlight": "cho mọi ngành công nghiệp",
+    "subtitle": "GDY là nhà sản xuất chuyên nghiệp màng bảo vệ PET — silicone, acrylic, PU, chống tĩnh điện, chịu nhiệt và độ trong suốt cao — với khả năng tùy chỉnh toàn diện và giao hàng nhanh đến Đông Nam Á cùng hơn 40 quốc gia.",
+    "ctaPrimary": "Nhận báo giá",
+    "ctaSecondary": "Xem sản phẩm",
+    "stats": {
+      "years": "Năm kinh nghiệm",
+      "factory": "m² cơ sở sản xuất",
+      "industries": "Ngành phục vụ",
+      "countries": "Quốc gia xuất khẩu"
+    }
+  },
+  "services": {
+    "title": "Sáu dòng sản phẩm chủ lực",
+    "subtitle": "Màng bảo vệ bề mặt PET trọn gói — mọi thông số đều tùy chỉnh theo ứng dụng của bạn.",
+    "items": [
+      {
+        "title": "Màng bảo vệ PET silicone",
+        "desc": "Không để lại keo dư, độ dính thấp và độ sạch cao; ổn định từ −40°C đến 150°C. Dùng cho màn hình điện thoại/máy tính bảng, thấu kính quang học và linh kiện điện tử chính xác."
+      },
+      {
+        "title": "Màng bảo vệ PET acrylic",
+        "desc": "Lực bám mạnh từ 5 đến 1.500 g/in, độ truyền sáng ≥91%. Dùng cho tấm kim loại, chi tiết nhựa và bề mặt kính trong gia công và vận chuyển."
+      },
+      {
+        "title": "Màng bảo vệ PET keo PU",
+        "desc": "Dán siêu sạch sản xuất trong phòng sạch Class-1000, không để lại keo. Dùng cho màng quang học, tấm hiển thị và bộ phận bán dẫn chính xác."
+      },
+      {
+        "title": "Màng bảo vệ PET chống tĩnh điện",
+        "desc": "Điện trở bề mặt 10⁸–10¹¹ Ω, bảo vệ ESD kéo dài hơn 12 tháng. Dùng cho linh kiện điện tử, PCB/FPC và đóng gói bán dẫn."
+      },
+      {
+        "title": "Màng bảo vệ PET chịu nhiệt",
+        "desc": "Chịu hơn 200°C, không bong tróc trong quá trình phun sơn hoặc mạ điện. Dùng cho che chắn sơn ô tô, bảo vệ mạ và quy trình nhiệt độ cao."
+      },
+      {
+        "title": "Màng bảo vệ PET độ trong cao",
+        "desc": "Độ truyền sáng ≥95%, độ phẳng cấp quang học. Dùng cho thấu kính quang học, màn hình cảm ứng và bề mặt sản phẩm bóng."
+      }
+    ]
+  },
+  "advantages": {
+    "title": "Vì sao chọn GDY",
+    "subtitle": "20 năm tập trung vào màng bảo vệ PET — từ R&D đến dây chuyền sản xuất của bạn.",
+    "items": [
+      {
+        "title": "Phòng thí nghiệm R&D liên kết với HIT",
+        "desc": "Công thức tùy chỉnh theo ứng dụng — độ dính, khả năng chịu nhiệt, chống tĩnh điện và hơn thế — cùng phòng thí nghiệm Đại học Bá Cương (Harbin Institute of Technology)."
+      },
+      {
+        "title": "Nguyên liệu nhập khẩu",
+        "desc": "Màng cơ sở từ Toray và Toyobo (Nhật Bản) đảm bảo không ố vàng, không giòn theo thời gian."
+      },
+      {
+        "title": "Tùy chỉnh toàn diện",
+        "desc": "Độ dày 25–300 μm, rộng tới 1.600 mm, độ dính 1–1.500 g/in; tùy chọn chống tĩnh điện, chống UV, chịu nhiệt và chống cháy."
+      },
+      {
+        "title": "Mẫu miễn phí, OEM / ODM",
+        "desc": "Mẫu thử miễn phí; sản xuất hàng loạt sau khi xác nhận thông số. Hỗ trợ gia công nhãn riêng và phát triển thông số độc quyền."
+      },
+      {
+        "title": "Giao hàng nhanh Đông Nam Á",
+        "desc": "Hành trình logistics thường lệ đến Việt Nam, Thái Lan, Indonesia, Malaysia và Philippines — sản phẩm tiêu chuẩn xuất kho trong 7 ngày."
+      },
+      {
+        "title": "Kinh nghiệm xuất khẩu toàn cầu",
+        "desc": "Xuất khẩu đến hơn 40 quốc gia, hỗ trợ điều kiện thương mại DDP và DDU."
+      }
+    ],
+    "certsTitle": "Chứng nhận & Tuân thủ",
+    "certs": [
+      "ISO 9001",
+      "ISO 14001",
+      "SGS kiểm định",
+      "RoHS",
+      "REACH",
+      "Doanh nghiệp công nghệ cao quốc gia"
+    ]
+  },
+  "cases": {
+    "title": "Các ngành chúng tôi phục vụ",
+    "subtitle": "Giải pháp bảo vệ bề mặt cho sáu lĩnh vực chính.",
+    "viewAll": "Xem tất cả sản phẩm",
+    "items": [
+      {
+        "title": "Điện tử & Điện tử tiêu dùng",
+        "desc": "Bảo vệ màn hình và linh kiện cho điện thoại, máy tính bảng, laptop và màn hình hiển thị.",
+        "sector": "Điện tử"
+      },
+      {
+        "title": "Thiết bị gia dụng",
+        "desc": "Bảo vệ tấmpanel và vỏ cho tủ lạnh, điều hòa, máy giặt và thiết bị nhà bếp.",
+        "sector": "Gia dụng"
+      },
+      {
+        "title": "Vật liệu xây dựng",
+        "desc": "Bảo vệ bề mặt profile nhôm, inox, kính và đá.",
+        "sector": "Xây dựng"
+      },
+      {
+        "title": "Ô tô",
+        "desc": "Màng bảo vệ nội ngoại thất, che chắn sơn và bảo vệ táp-lô.",
+        "sector": "Ô tô"
+      },
+      {
+        "title": "Năng lượng mới",
+        "desc": "Bảo vệ tấm pin mặt trời, module pin lithium và linh kiện xe điện.",
+        "sector": "Năng lượng mới"
+      },
+      {
+        "title": "Kim khí & Nội thất",
+        "desc": "Tấm kim loại, profile nhựa, biển hiệu và bảo vệ bề mặt nội thất.",
+        "sector": "Kim khí"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Sẵn sàng bảo vệ sản phẩm của bạn?",
+    "subtitle": "Gửi yêu cầu của bạn — mẫu miễn phí và giải pháp phù hợp trong vòng 24 giờ.",
+    "button": "Liên hệ đội ngũ chúng tôi"
+  },
+  "about": {
+    "title": "Về GDY",
+    "subtitle": "Nhà sản xuất chuyên nghiệp trong ngành màng bảo vệ",
+    "lead": "Shenzhen Guangdayuan Film Co., Ltd. — 20 năm tập trung nghiên cứu và sản xuất màng bảo vệ PET, mang đến giải pháp bảo vệ bề mặt ổn định và đáng tin cậy cho khách hàng toàn cầu.",
+    "missionTitle": "Sứ mệnh",
+    "missionText": "Mang đến cho khách hàng giải pháp bảo vệ bề mặt ổn định, đáng tin cậy — đúng màng, đúng độ dính, giao đúng hẹn.",
+    "visionTitle": "Tầm nhìn",
+    "visionText": "Trở thành đối tác màng bảo vệ đáng tin cậy nhất cho các nhà sản xuất điện tử, ô tô và năng lượng mới trên khắp châu Á và thế giới.",
+    "paragraphs": [
+      "Thành lập năm 2004, GDY vận hành cơ sở sản xuất 16.000 m² với phòng sạch Class-100.000 và Class-1.000 cùng ba dây chuyền phủ tự động hoàn toàn — công suất 120 triệu m²/năm.",
+      "Màng cơ sở từ Toray và Toyobo (Nhật Bản), phòng thí nghiệm R&D liên kết với Đại học Bá Cương, cùng hệ thống chứng nhận ISO 9001 / ISO 14001 giữ chất lượng ổn định qua từng lô hàng."
+    ],
+    "statsTitle": "Năng lực nhà máy",
+    "stats": [
+      {
+        "value": "2004",
+        "label": "Thành lập"
+      },
+      {
+        "value": "16.000 m²",
+        "label": "Cơ sở sản xuất"
+      },
+      {
+        "value": "3",
+        "label": "Dây chuyền phủ tự động"
+      },
+      {
+        "value": "120 triệu m²",
+        "label": "Công suất năm"
+      },
+      {
+        "value": "10 triệu m²",
+        "label": "Công suất tháng"
+      },
+      {
+        "value": "100K / 1K",
+        "label": "Phòng sạch"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Liên hệ chúng tôi",
+    "subtitle": "Hãy cho chúng tôi biết về dự án của bạn — chúng tôi sẽ phản hồi sớm.",
+    "form": {
+      "name": "Họ tên",
+      "namePlaceholder": "Tên của bạn",
+      "email": "Email",
+      "emailPlaceholder": "you@company.com",
+      "message": "Nội dung",
+      "messagePlaceholder": "Mô tả yêu cầu của bạn…",
+      "submit": "Gửi yêu cầu",
+      "success": "Cảm ơn! Yêu cầu của bạn đã được ghi nhận. Chúng tôi sẽ liên hệ trong vòng 24 giờ."
+    },
+    "info": {
+      "title": "Thông tin liên hệ",
+      "address": "Trụ sở",
+      "phone": "Điện thoại / WhatsApp",
+      "email": "Email"
+    },
+    "channelsTitle": "Kênh khác"
+  },
+  "footer": {
+    "tagline": "Nhà sản xuất màng bảo vệ PET chuyên nghiệp — bảo vệ bề mặt ổn định, đáng tin cậy cho các ngành toàn cầu.",
+    "product": "Sản phẩm",
+    "company": "Công ty",
+    "follow": "Theo dõi chúng tôi",
+    "rights": "Mọi quyền được bảo lưu."
+  },
+  "chat": {
+    "title": "Trợ lý Kinh doanh AI",
+    "subtitle": "Hỏi về công ty, sản phẩm, dịch vụ hoặc cách bắt đầu một dự án.",
+    "placeholder": "Nhập câu hỏi của bạn…",
+    "send": "Gửi",
+    "thinking": "Đang suy nghĩ…",
+    "quick": "Câu hỏi phổ biến",
+    "quickItems": [
+      "Công ty bạn chủ yếu làm gì?",
+      "Bạn có những dịch vụ nào?",
+      "Tôi muốn tư vấn một dự án thì làm sao?",
+      "Yêu cầu báo giá"
+    ],
+    "wizard": "Trình tạo báo giá nhanh",
+    "wizardProduct": "Loại sản phẩm",
+    "wizardThickness": "Độ dày (μm)",
+    "wizardWidth": "Khổ rộng (mm)",
+    "wizardAdhesion": "Lực dính (g/in)",
+    "wizardQty": "Số lượng (cuộn / m²)",
+    "wizardGenerate": "Tạo yêu cầu",
+    "human": "Gặp nhân viên",
+    "humanDesc": "Không tìm thấy câu trả lời? Đội sales của chúng tôi chỉ một chạm.",
+    "whatsapp": "WhatsApp",
+    "wechat": "WeChat",
+    "wechatScan": "Quét để thêm WeChat",
+    "wechatIdLabel": "ID WeChat",
+    "offline": "Chế độ demo (chưa cài đặt khóa AI) — chỉ trả lời cơ bản. Nhấn WeChat / WhatsApp để gặp người thật."
+  },
+  "news": {
+    "title": "Tin tức & Tin chuyên ngành",
+    "subtitle": "Cập nhật công ty và thông tin ngành màng bảo vệ.",
+    "featured": "Nổi bật",
+    "latest": "Mới nhất",
+    "readMore": "Đọc thêm",
+    "back": "Quay lại tin tức",
+    "publishedOn": "Đăng ngày",
+    "categoryCompany": "Tin công ty",
+    "categoryIndustry": "Tin ngành",
+    "relatedTitle": "Tin khác",
+    "shareTitle": "Theo dõi GDY",
+    "shareDesc": "Theo dõi GDY trên mạng xã hội để cập nhật mới nhất.",
+    "viewAll": "Xem tất cả",
+    "homeTitle": "Tin tức & Chuyên sâu",
+    "homeSubtitle": "Cập nhật mới nhất từ GDY và xu hướng ngành màng bảo vệ.",
+    "source": "Nguồn"
+  },
+  "trust": {
+    "line": "Tin cậy bởi nhà sản xuất tại 40+ quốc gia · Chất lượng đạt chứng nhận ISO · Giao hàng 7 ngày đến Đông Nam Á"
+  },
+  "faq": {
+    "title": "Câu hỏi thường gặp",
+    "subtitle": "Giải đáp các thắc mắc phổ biến về màng PET, tùy chỉnh, mẫu và giao hàng."
+  }
+}
